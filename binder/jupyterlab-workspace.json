@@ -5,10 +5,7 @@
         "dock": {
           "type": "split-area",
           "orientation": "horizontal",
-          "sizes": [
-            0.5,
-            0.5
-          ],
+          "sizes": [1.0],
           "children": [
             {
               "type": "tab-area",
