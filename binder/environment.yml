@@ -15,7 +15,7 @@ dependencies:
   - python-blosc
   - lz4
   - nomkl
-  - nbserverproxy
+  - jupyter-server-proxy
   - jupyter
   - jupyterlab
   - jupyterlab_launcher
