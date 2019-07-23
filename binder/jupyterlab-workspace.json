@@ -14,13 +14,13 @@
               "type": "tab-area",
               "currentIndex": 0,
               "widgets": [
-                "application-mimedocuments:Welcome.md:Markdown Preview"
+                "markdownviewer-widget:Welcome.md"
               ]
             }
           ]
         },
         "mode": "multiple-document",
-        "current": "application-mimedocuments:Welcome.md:Markdown Preview"
+        "current": "markdownviewer-widget:Welcome.md"
       },
       "left": {
         "collapsed": false,
