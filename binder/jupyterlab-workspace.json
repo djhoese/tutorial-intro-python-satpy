@@ -53,7 +53,7 @@
     "dask-dashboard-launcher": {
       "url": "DASK_DASHBOARD_URL"
     },
-    "application-mimedocuments:Welcome.md:Markdown Preview": {
+    "markdownviewer-widget:Welcome.md": {
       "data": {
         "path": "Welcome.md",
         "factory": "Markdown Preview"
