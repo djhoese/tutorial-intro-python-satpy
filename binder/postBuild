@@ -5,7 +5,4 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager \
                              jupyter-leaflet \
                              dask-labextension
 
-# import the workspace configuration for the default workspace
-#jupyter lab workspaces import binder/jupyterlab-workspace.json
-
 #EOF
