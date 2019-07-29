@@ -26,6 +26,7 @@ dependencies:
   - nodejs
   - dask-labextension
   - satpy
+  - gdal>=2.4
   - ipympl
   - pip:
     - kubernetes
