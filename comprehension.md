@@ -14,7 +14,7 @@
    
    D. Raises an exception
 
-2. What information (metadata) does Satpy **not** provide with loaded data?
+2. What information (metadata) does Satpy provide with loaded data?
 
    A. Name
    
@@ -24,5 +24,5 @@
    
    D. Wavelength
    
-   E. None of the above
+   E. All of the above
 

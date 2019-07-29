@@ -8,4 +8,6 @@ sed -i -e "s|WORKSPACE_ID|/lab|g" binder/jupyterlab-workspace.json
 # Import the workspace into JupyterLab
 jupyter lab workspaces import binder/jupyterlab-workspace.json
 
+python download_data.py > download_data.log &
+
 exec "$@"
